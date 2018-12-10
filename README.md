@@ -1,7 +1,7 @@
 # Puzzle heart keychain
 
 ## About
-Laser cut wooden keychain made with [Inkscape](https://inkscape.org/), a 3mm MDF (Medium Density Fibreboard) board, and a [Epilog Mini 24 Laser](https://www.epiloglaser.com/laser-machines/legend-laser-series.htm) machine.
+Laser cut wooden keychain made with [Inkscape](https://inkscape.org/), a 3mm [MDF](https://en.wikipedia.org/wiki/Medium-density_fibreboard) board, and a [Epilog Mini 24 Laser](https://www.epiloglaser.com/laser-machines/legend-laser-series.htm) machine.
 
 ## How-to
 Print `puzzle_heart_keychain.svg` or `puzzle_heart_keychain.pdf` with :
