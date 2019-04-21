@@ -12,10 +12,10 @@ Print `puzzle_heart_keychain.svg` or `puzzle_heart_keychain.pdf` with :
 
 ## Preview
 
-![](.github/puzzle_heart_keychain_1.jpg)
-![](.github/puzzle_heart_keychain_2.jpg)
-![](.github/puzzle_heart_keychain_3.jpg)
-![](.github/puzzle_heart_keychain_4.jpg)
+![](github/puzzle_heart_keychain_1.jpg)
+![](github/puzzle_heart_keychain_2.jpg)
+![](github/puzzle_heart_keychain_3.jpg)
+![](github/puzzle_heart_keychain_4.jpg)
 
 ## License
 Puzzle heart keychain is released under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.fr.html).
